@@ -1,0 +1,10 @@
+cd ola
+rm s
+rm d.txt
+clear
+rm d
+ls
+mkdir ola
+rm s.txt
+rmdir ola
+cd ..
